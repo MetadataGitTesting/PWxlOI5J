@@ -1,0 +1,57 @@
+name: dennis.schmeler
+description: Re-engineered
+version: 4.7.3
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: dennisschmeler
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 23:43:21'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 23:43:21'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T23:43:21.254877Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '453565377'
+  createdAt: '2024-12-08T23:43:21.254877Z'
+  type: plibMaven
+projectDependencies:
+  '203':
+    projectUID: 203
+    projectName: dewitt.quigley
+    repositoryPath: gitUri=http://gitserver:3000/dev_EM90CNz0_team_306/dev_EM90CNz0_project_203.git&subPath=
+    version: dewitt.quigley/9.76.814
+    isDefault: false
+    author: null
+    createdAt: '2024-12-08 23:43:19'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
